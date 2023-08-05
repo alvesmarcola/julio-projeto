@@ -1,0 +1,11 @@
+@import "https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Recursive&display=swap";
+body{font-family:Arial,sans-serif}
+.container-julio{padding:40px;width:100%;background:#212121}
+.textarea span{color:#D8BF7A;font-style:normal;font-weight:700;font-size:28px}
+.textarea{float:left;padding:5px}
+.textarea h1{color:grey;font-size:16px;font-family:'Recursive',sans-serif}
+.textarea h2{color:#f5f5f5;font-size:18px}
+.textearea p{text-align:left;font-size:16px}
+#right{text-align: center; }
+#right img{width:28vw;border:none;border-radius:8px;margin:auto;}
+.textarea span span{width:28px;height:3px;border-radius:3px;color:#D8BF7A}
